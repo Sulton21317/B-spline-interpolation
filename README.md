@@ -28,7 +28,7 @@ plt.show()
 
 Original image:
 
-![Original image](original.png)
+![Original image](original.png "Original image")
 
 And there is some values of the image array's
 
