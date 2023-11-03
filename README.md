@@ -8,7 +8,9 @@ t=np.append([0,0,0],t)
 t=np.append(t,[1,1,1])
  ```
 Drawing it using matplotlib :
+
 ![Cubic B-spline curve drawing](output.png "Cubic B-spline curve drawing")
+
 With this code:
 ```
 plt.plot(x,y,'k--',label='Control polygon',marker='o',markerfacecolor='red')
