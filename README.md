@@ -28,7 +28,7 @@ plt.show()
 
 Original image:
 
-![Original image](original.png "Original image")
+![Original](original.png "Original image")
 
 And there is some values of the image array's
 
@@ -41,7 +41,7 @@ And there is some values of the image array's
 
 Resized image:
 
-![Resized image](resized.png)
+![Resized](resized.png)
 
 And there is some values of the new image array's
 ```
